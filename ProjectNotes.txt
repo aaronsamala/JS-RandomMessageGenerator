@@ -1,11 +1,3 @@
-Working with git; cloning, creating new branch via git checkout -b "new-branch-name"
-
-
-https://education.github.com/git-cheat-sheet-education.pdf
-
-Weird stuff:
-- Need to figure out why sometimes I can edit this ProjectNotes.txt file via VSCode and why it sometimes doesn't let me.
-
 Things learned:
 - When using VSCode: if you open the folder, and then clone from GitHub, the VSCode Source Control tab will not work until you open the cloned folder in VSCode.  It may be better to clone the GitHub repository in terminal first, and then open that folder in VSCode so that the Source Control in VSCode will already be set up.
 
