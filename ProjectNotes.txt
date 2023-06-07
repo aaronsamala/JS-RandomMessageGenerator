@@ -1,0 +1,8 @@
+Working with git; cloning, creating new branch via git checkout -b "new-branch-name"
+
+
+https://education.github.com/git-cheat-sheet-education.pdf
+
+Things learned:
+- When using VSCode: if you open the folder, and then clone from GitHub, the VSCode Source Control tab will not work until you open the cloned folder in VSCode.  It may be better to clone the GitHub repository in terminal first, and then open that folder in VSCode so that the Source Control in VSCode will already be set up.
+- Gained experience troubleshooting; had the issue where I was running git init before cloning the GitHub repo.
